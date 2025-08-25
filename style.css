@@ -4,4 +4,11 @@ Body{
      font-family:"Playfair Display",sans-serif; 
      margin: 0px; 
 }
+header{
+n     font-size: 40px;
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 40px
+    color: rgb(255, 255, 255);
+}_
 
